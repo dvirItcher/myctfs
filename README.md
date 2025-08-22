@@ -1,0 +1,1 @@
+https://ctf.hackthebox.com/challenges/40796/download?expires=1755871226&signature=04995f7fe37de7d5a7bb3deda387ced1f7141f4308fd6788cc65d440d41e0768
